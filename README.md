@@ -19,17 +19,17 @@ The dataset contains responses to these key questions:
 ## 📂 Project Structure
 project-root/
 │
-├── data/ # Contains raw and cleaned datasets
-│ ├── Ramadan_Time_Management.csv # Original survey responses
+├── data/                   # Contains raw and cleaned datasets
+│   ├── Ramadan_Time_Management.csv  # Original survey responses
 │
-├── notebooks/ # Jupyter notebooks for analysis
-│ ├── Ramadan_Time_management.ipynb
+├── notebooks/              # Jupyter notebooks for analysis
+│   ├── Ramadan_Time_management.ipynb
 │
-├── reports/ # Analysis outputs and visualizations
-│ ├── Ramadan_Time_management.pdf
+├── reports/                # Analysis outputs and visualizations
+│   ├── Ramadan_Time_management.pdf
 │
-├── README.md # This file
-└── requirements.txt # Python dependencies
+├── README.md               # This file
+└── requirements.txt        # Python dependencies
 
 ## 🔍 Key Analysis Areas
 1. Sleep patterns vs academic performance
