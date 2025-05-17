@@ -30,3 +30,24 @@ project-root/
 │
 ├── README.md # This file
 └── requirements.txt # Python dependencies
+
+## 🔍 Key Analysis Areas
+1. Sleep patterns vs academic performance
+2. Impact of Taraweeh attendance on daily routines
+3. Common time management strategies
+4. Productivity patterns during Ramadan
+5. Major challenges reported by students
+
+## 🛠️ Technical Requirements
+- Python 3.8+
+- Pandas, NumPy, Matplotlib/Seaborn
+- Jupyter Notebook
+
+## 📊 Expected Outcomes
+- Visualizations of time allocation patterns
+- Identification of common challenges
+- Correlation analysis between different factors
+- Recommendations for better time management
+
+## 🙏 Acknowledgments
+Special thanks to all survey participants who contributed their Ramadan experiences.
