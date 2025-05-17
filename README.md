@@ -30,8 +30,7 @@ project-root/
 ├── reports/                # Analysis outputs and visualizations
 │   ├── Ramadan_Time_management.pdf
 │
-├── README.md               # This file
-└── requirements.txt        # Python dependencies
+└── README.md               # This file
 ```
 
 ## 🔍 Key Analysis Areas
