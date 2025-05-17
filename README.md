@@ -17,6 +17,8 @@ The dataset contains responses to these key questions:
 - When do you feel most productive during Ramadan?
 
 ## 📂 Project Structure
+```
+.
 project-root/
 │
 ├── data/                   # Contains raw and cleaned datasets
@@ -30,6 +32,7 @@ project-root/
 │
 ├── README.md               # This file
 └── requirements.txt        # Python dependencies
+```
 
 ## 🔍 Key Analysis Areas
 1. Sleep patterns vs academic performance
